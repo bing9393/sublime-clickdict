@@ -1,5 +1,7 @@
 # ClickDict
 
+[English](README.en.md) | 简体中文
+
 A tiny, fully offline English–Chinese dictionary popup for Sublime Text. Click any English word in a Markdown or plain-text file and see its Chinese meaning next to the cursor.
 
 在 Sublime Text 里阅读英文 `.txt` / `.md` 文档时，**单击任意英文单词**，旁边会弹出悬浮窗显示中文释义。完全离线，不联网。
