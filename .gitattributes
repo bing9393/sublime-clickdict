@@ -1,0 +1,4 @@
+*.db binary
+*.sublime-settings text
+*.sublime-commands text
+*.md text

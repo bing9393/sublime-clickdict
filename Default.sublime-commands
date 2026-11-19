@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "ClickDict: Look Up Word at Cursor",
+        "command": "click_dict_lookup"
+    },
+    {
+        "caption": "ClickDict: Toggle Click Lookup",
+        "command": "click_dict_toggle"
+    }
+]

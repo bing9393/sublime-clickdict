@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+
+# ECDICT build inputs (downloaded by tools/build_dictionary.py docs)
+tools/ecdict.tgz
+tools/ecdict.csv
+tools/ecdict_data/
+tools/package/

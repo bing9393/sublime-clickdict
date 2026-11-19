@@ -1,0 +1,8 @@
+{
+    "enabled": true,
+    "enabled_extensions": [".txt", ".md", ".markdown"],
+    "click_delay_ms": 220,
+    "show_phonetic": true,
+    "max_definition_chars": 1200,
+    "dictionary_path": ""
+}
